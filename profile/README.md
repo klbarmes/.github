@@ -1,20 +1,15 @@
 # KLB Armes
 
-**Armurerie française basé vers Saint-Étienne**
+**Armurerie française située près de Saint-Étienne**
 
-Spécialiste de la vente d'armes, de munitions et d'équipements pour
-les tireurs sportifs et professionnels, KLB Armes accompagne ses
-clients avec expertise et passion depuis sa boutique stéphanoise et son
-site marchand.
+Spécialiste des armes, des munitions et des équipements destinés aux tireurs sportifs et aux professionnels, KLB Armes met son expertise et sa passion au service de ses clients à travers sa boutique physique et sa boutique en ligne.
 
-## Notre catalogue en ligne
+## Découvrez notre catalogue
 
-Découvrez l'ensemble de nos produits et bénéficiez de notre expertise sur
-notre boutique en ligne.
+Retrouvez l'ensemble de nos produits, nos nouveautés et nos conseils sur notre boutique en ligne.
 
 ### [www.klbarmes.com](https://www.klbarmes.com)
 
 ---
 
-*Cette organisation GitHub héberge les outils et services techniques
-internes de KLB Armes.*
+*Cette organisation GitHub regroupe les projets, outils et services techniques développés et utilisés par KLB Armes.*
